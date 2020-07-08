@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lzw.pdddao.mapper.UserInfoMapper">
+    <select id="selectUserInfoByOpenId" resultType="com.lzw.pdddao.entity.UserInfo">
+        select * from user_info where open_id=#{openId}
+    </select>
+
+    <select id="isSaveByOpenId" resultType="string">
+        select ifnull((select open_id  from user_info where open_id=#{openId} limit 1 ), 0)
+    </select>
+
+    <insert id="insertOpenId">
+        insert into user_info(open_id)
+        value (#{openId})
+    </insert>
+
+    <update id="updateUserInfo">
+        update user_info set avatarUrl=#{param1.avatarUrl},city=#{param1.city},province=#{param1.province},
+        country=#{param1.country},gender=#{param1.gender},language=#{param1.language},nickName=#{param1.nickName}
+        where open_id=#{param2}
+    </update>
+</mapper>

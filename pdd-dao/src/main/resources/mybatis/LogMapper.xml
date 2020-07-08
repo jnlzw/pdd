@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lzw.pdddao.mapper.LogMapper">
+    <insert id="insertLog">
+        insert into log(openId,ip, url, args, code,result)
+        value (#{openId},#{ip}, #{url}, #{args},#{code}, #{result})
+    </insert>
+</mapper>

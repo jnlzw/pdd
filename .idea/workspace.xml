@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="678056da-318f-404b-bef2-699bbfd63ec7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/pdd-web/target/" />
+    <ignored path="$PROJECT_DIR$/pdd-service/target/" />
+    <ignored path="$PROJECT_DIR$/demo-dao/target/" />
+    <ignored path="$PROJECT_DIR$/pdd-dao/target/" />
+    <ignored path="$PROJECT_DIR$/pdd-common/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PDD: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PDD: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="apis: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PDD: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="disable: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PDD: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="log: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PDD: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="role_api: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PDD: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="roles: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://47.102.219.1:3306/PDD?serverTimezone=Asia/Shanghai" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="PDD: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user_info: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/aspect/TestAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdd-service/src/main/java/com/lzw/pddservice/service/RoleService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="21" column="56" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/aspect/VaildationParamAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaCode/src/com/company/code/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93175">
+              <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+              <folding>
+                <element signature="e#177013#177014#0" expanded="true" />
+                <element signature="e#177054#177055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JavaCode/src/com/company/code/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42600">
+              <caret line="1787" column="22" selection-start-line="1787" selection-start-column="22" selection-end-line="1787" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/annotation/ValidationParam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/OtherController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17450">
+              <caret line="782" selection-start-line="782" selection-end-line="782" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pdd-web/src/test/java/com/lzw/pddweb/PddWebApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Sys</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/model/Cart.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/collection.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/buy.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/cart.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/view.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/model/CartInfo.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/console_9.sql" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/model/ViewInfo.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/model/CollectionInfo.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/console_10.sql" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/CartMapper.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/CartMapper.xml" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/OtherMapper.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/OtherMapper.xml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/console_11.sql" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/ItemInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/model/OrderInfo.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/OrderMapper.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/OrderMapper.xml" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/result/RetCode.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/redis/RedisUtils.java" />
+        <option value="$PROJECT_DIR$/pdd-service/src/main/java/com/lzw/pddservice/service/WXService.java" />
+        <option value="$PROJECT_DIR$/pdd-service/src/main/java/com/lzw/pddservice/service/TestService.java" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/HomePageController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/pdd-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pdd-common/src/main/java/com/lzw/pdd/log/TestAspect.java" />
+        <option value="$PROJECT_DIR$/pdd-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/PddWebApplication.java" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/OtherController.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/Apis.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/RoleApi.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/Roles.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/UserInfo.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/console_12.sql" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/result/Result.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/RoleMapper.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/RoleMapper.xml" />
+        <option value="$PROJECT_DIR$/pdd-service/src/main/java/com/lzw/pddservice/service/RoleService.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/LogMapper.java" />
+        <option value="$PROJECT_DIR$/pdd-web/src/test/java/com/lzw/pddweb/PddWebApplicationTests.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/bean/HomePage.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/log.java" />
+        <option value="$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/LogMapper.xml" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/annotation/ValidationParam.java" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/aspect/TestAspect.java" />
+        <option value="$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/aspect/VaildationParamAspect.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\lzw\.m2\repository" />
+        <option name="mavenHome" value="C:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\lzw\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="pdd" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="pdd" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lzw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lzw" type="462c0819:PsiDirectoryNode" />
+              <item name="pddweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lzw" type="462c0819:PsiDirectoryNode" />
+              <item name="pddweb" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lzw" type="462c0819:PsiDirectoryNode" />
+              <item name="pddweb" type="462c0819:PsiDirectoryNode" />
+              <item name="aspect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lzw" type="462c0819:PsiDirectoryNode" />
+              <item name="pddweb" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lzw" type="462c0819:PsiDirectoryNode" />
+              <item name="pddweb" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pdd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pdd" type="462c0819:PsiDirectoryNode" />
+              <item name="pdd-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pddweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/redis" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lzw.pddweb" />
+      <recent name="com.lzw.pddservice.server" />
+      <recent name="com.lzw" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\pdd\pdd-dao\src\main\java\com\lzw\pdddao\redis" />
+      <recent name="C:\Code\pdd\pdd-web\src\main\java\com\lzw\pddweb\result" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.15313853" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.PddWebApplication">
+    <configuration name="PddDaoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pdd-dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzw.pdddao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzw.pdddao" />
+      <option name="MAIN_CLASS_NAME" value="com.lzw.pdddao.PddDaoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PddWebApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pdd-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzw.pddweb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzw.pddweb" />
+      <option name="MAIN_CLASS_NAME" value="com.lzw.pddweb.PddWebApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PddWebApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pdd-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzw.pddweb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzw.pddweb" />
+      <option name="MAIN_CLASS_NAME" value="com.lzw.pddweb.PddWebApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PddWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="pdd-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lzw.PddWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PddDaoApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.PddWebApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.PddWebApplicationTests" />
+      <item itemvalue="Spring Boot.PddWebApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PddWebApplication" />
+        <item itemvalue="JUnit.PddWebApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.PddWebApplicationTests" />
+        <item itemvalue="JUnit.PddDaoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="678056da-318f-404b-bef2-699bbfd63ec7" name="Default Changelist" comment="" />
+      <created>1591194170165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591194170165</updated>
+      <workItem from="1591194173515" duration="3977000" />
+      <workItem from="1591249508116" duration="7394000" />
+      <workItem from="1591264033891" duration="1274000" />
+      <workItem from="1591265426534" duration="9276000" />
+      <workItem from="1591323748013" duration="10401000" />
+      <workItem from="1591514850501" duration="11028000" />
+      <workItem from="1591535002308" duration="6897000" />
+      <workItem from="1591599499501" duration="13402000" />
+      <workItem from="1591712114828" duration="5119000" />
+      <workItem from="1591771299241" duration="5085000" />
+      <workItem from="1591925776859" duration="329000" />
+      <workItem from="1592055007493" duration="939000" />
+      <workItem from="1592395835529" duration="83000" />
+      <workItem from="1592493560718" duration="4289000" />
+      <workItem from="1593171055313" duration="4987000" />
+      <workItem from="1593180791108" duration="6960000" />
+      <workItem from="1593243247349" duration="12460000" />
+      <workItem from="1593331691567" duration="11227000" />
+      <workItem from="1593879827724" duration="1934000" />
+      <workItem from="1593930466257" duration="298000" />
+      <workItem from="1593961299019" duration="5024000" />
+      <workItem from="1594053465861" duration="2622000" />
+      <workItem from="1594201903101" duration="1198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.09 at 22h 33m 35s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.09 at 22h 34m 08s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.26 at 23h 08m 32s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.26 at 23h 09m 18s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.26 at 23h 09m 35s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.26 at 23h 10m 46s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.26 at 23h 11m 53s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.26 at 23h 13m 04s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.27 at 22h 28m 47s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PddWebApplicationTests_contextLoads - 2020.06.27 at 22h 35m 02s.xml">
+      <configuration name="PddWebApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="126203000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20415778" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="设计师" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36863968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32917964" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32917964" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32917964" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.45482865" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" weight="0.32917964" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49946696" visible="true" weight="0.14330219" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="控制板" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.16204691" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/schema/PDD/table/role_api" />
+    <entry file="file://$PROJECT_DIR$/../JavaCode/src/com/company/code/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/RoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/schema/PDD/table/apis" />
+    <entry file="file://$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/UserInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/UserInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/schema/PDD/table/user_info" />
+    <entry file="das://19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/schema/PDD/table/disable" />
+    <entry file="das://19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/schema/PDD/table/roles" />
+    <entry file="file://$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/ItemInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/RoleMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCode/src/com/company/code/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
+          <folding>
+            <element signature="e#4161#4162#0" expanded="true" />
+            <element signature="e#4211#4212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCode/src/com/company/code/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72675">
+          <caret line="2994" column="5" selection-start-line="2994" selection-start-column="5" selection-end-line="2994" selection-end-column="5" />
+          <folding>
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCode/src/com/company/code/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5225">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/result/Result.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.22/lombok-1.16.22.jar!/lombok/Data.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/bean/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar!/javax/servlet/ServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-dao/src/main/resources/mybatis/LogMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/mapper/LogMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://19cc9cbc-3a80-4b58-98f3-8535b7d62dbe/schema/PDD/table/log" />
+    <entry file="file://$PROJECT_DIR$/../新建文件夹/JAVA/admin/src/geneticAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#3818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-dao/src/main/java/com/lzw/pdddao/entity/log.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/PddWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.5/aspectjweaver-1.9.5.jar!/org/aspectj/lang/annotation/AfterReturning.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.5/aspectjweaver-1.9.5.jar!/org/aspectj/lang/ProceedingJoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/aspect/TestAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-service/src/main/java/com/lzw/pddservice/service/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCode/src/com/company/code/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93175">
+          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaCode/src/com/company/code/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42600">
+          <caret line="1787" column="22" selection-start-line="1787" selection-start-column="22" selection-end-line="1787" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/annotation/ValidationParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/controller/OtherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17450">
+          <caret line="782" selection-start-line="782" selection-end-line="782" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/test/java/com/lzw/pddweb/PddWebApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pdd-web/src/main/java/com/lzw/pddweb/aspect/VaildationParamAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>pdd</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

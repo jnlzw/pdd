@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lzw.pdddao.mapper.OtherMapper">
+    <insert id="insertView">
+        insert into view (open_id, item_id)
+        value (#{param1},#{param2})
+    </insert>
+    <insert id="insertCollections">
+        insert into collection (open_id, item_id)
+        value (#{param1},#{param2})
+    </insert>
+
+    <select id="selectView" resultType="com.lzw.pdddao.model.ItemSimpleInfo">
+        select * from view join item_info on view.item_id=item_info.item_id
+        where view.open_id=#{openId}
+    </select>
+
+
+    <select id="selectCollection" resultType="com.lzw.pdddao.model.ItemSimpleInfo">
+        select * from collection join item_info on collection.item_id=item_info.item_id
+        where collection.open_id=#{openId}
+    </select>
+</mapper>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lzw.pdddao.mapper.OrderMapper">
+    <insert id="insertOrder">
+        insert into buy (open_id, item_id, item_num, sta)
+        value (#{param1},#{param2},#{param3},"1")
+    </insert>
+
+    <update id="updateOrder">
+        update buy set sta=2
+        where order_id=#{orderId}
+    </update>
+
+    <select id="selectOrderInfo" resultType="com.lzw.pdddao.model.OrderInfo">
+        select * from buy join item_info on buy.item_id=item_info.item_id
+        where buy.open_id=#{param1} and buy.sta=#{param2}
+    </select>
+
+    <update id="finOrder">
+        update buy set sta=2
+        where order_id=#{orderId}
+    </update>
+</mapper>

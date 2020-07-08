@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.lzw.pdddao.mapper.CartMapper">
+    <select id="selectCart" resultType="com.lzw.pdddao.entity.Cart">
+        select * from cart WHERE open_id = #{param1} and item_id=#{param2};
+    </select>
+    <insert id="insertCart">
+        insert into cart (open_id, item_id, item_num)
+        value (#{param1},#{param2},1)
+    </insert>
+
+    <update id="incItemNum">
+        UPDATE cart set item_num= IFNULL(item_num,0)+1 WHERE open_id = #{param1} and item_id=#{param2};
+    </update>
+
+    <update id="decItemNum">
+        update cart set item_num = item_num-1 WHERE open_id = #{param1} and item_id=#{param2};
+    </update>
+
+    <delete id="delateCart">
+        delete from cart
+        where open_id=#{param1} and item_id=#{param2}
+    </delete>
+</mapper>
